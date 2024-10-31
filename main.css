@@ -1,0 +1,39 @@
+#paragraph1 {
+	font-color: orange;
+}
+#galaxyPic {
+	height: 100px;
+	width: 100px;
+	padding: 50px 100px 50px 100px;
+	margin: 50px 100px 50px 50px;
+}
+#nav {
+	height: 500px;
+	width: 500px;
+	text-align: center;
+	overflow: hidden;
+}
+#nav a {
+	height: 100px;
+	width: 100px;
+	list-style-type: opacity 20px blue circle;
+	background-color: grey;
+    font-color: orange;
+	font-family: cursive;
+	opacity: 20;
+	display: block;
+	text-align: center;
+	border-width: 100px;
+	overflow: scroll;
+    border-radius: 50px;
+
+ 
+
+}
+#contact {
+}
+
+#table {
+	border-width: 50px;
+}
+}
